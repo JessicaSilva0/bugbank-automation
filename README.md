@@ -48,7 +48,7 @@ Exemplo de page object (`LoginPage.ts`):
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/bugbank-automation.git
+git clone https://github.com/jessicaSilva0/bugbank-automation.git
 cd bugbank-automation
 ```
 
