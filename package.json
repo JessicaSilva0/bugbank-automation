@@ -1,0 +1,26 @@
+{
+  "name": "desafio-playwright-bugbank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.2",
+    "jiti": "^2.4.2"
+  },
+  "dependencies": {
+    "@eslint/migrate-config": "^1.4.1",
+    "dotenv": "^16.5.0",
+    "dotenv-expand": "^12.0.2",
+    "eslint": "^9.25.1",
+    "prettier": "^3.5.3",
+    "typescript-eslint": "^8.31.0"
+  }
+}

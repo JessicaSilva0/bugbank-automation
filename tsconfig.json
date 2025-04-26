@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./dir",
+    "types": ["node"],
+    "noUnusedParameters": true,
+    "noImplicitThis": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true
+  },
+  "include": [
+    "utils/**/*.ts",
+    "tests/**/*.ts",
+    "playwright.config.ts",
+    "pages/**/*.ts",
+    "src",
+    "tests-examples",
+    "eslint.config.ts"
+  ],
+  "exclude": ["dist", "node_modules", "dir"]
+}
