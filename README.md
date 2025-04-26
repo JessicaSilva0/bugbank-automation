@@ -1,6 +1,6 @@
 # BugBank Automation Project
 
-[![Playwright](https://img.shields.io/badge/Playwright-1.51.0-blue.svg)](https://playwright.dev/)
+[![Playwright](https://img.shields.io/badge/Playwright-latest-blue.svg)](https://playwright.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue.svg)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)](https://nodejs.org/)
 
