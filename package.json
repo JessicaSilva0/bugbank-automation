@@ -6,7 +6,8 @@
   "scripts": {
     "lint": "eslint .",
     "format": "prettier --write .",
-    "test": "npx playwright test"
+    "test": "npx playwright test",
+    "lint:tags": "playwright-tag-linter"
   },
   "keywords": [],
   "author": "",
@@ -22,6 +23,7 @@
     "dotenv-expand": "^12.0.2",
     "eslint": "^9.25.1",
     "prettier": "^3.5.3",
+    "tag-linter-playwright": "^1.0.3",
     "typescript-eslint": "^8.31.0"
   }
 }
